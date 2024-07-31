@@ -24,7 +24,7 @@ Feel free to use it in your next Computer Vision or AI project.
 - Flip Camera (environment / user)
 - Supports both portrait and landscape mode
 
-**Check the [demo](https://demo.kasperkamperman.com/mobilecamtemplate/)**
+**Check the [demo](https://naushy.github.io/MobileCameraTemplate/)**
 
 ## Used Libraries:
 
